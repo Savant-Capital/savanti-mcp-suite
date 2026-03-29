@@ -1,5 +1,5 @@
 {
-  "title": "MetaMCP Namespaces",
+  "title": "AutomateAI Groups",
   "descriptionLabel": "설명",
   "description": "MCP Server들을 Namespace로 그룹화하고 단일 통합 MCP Server Endpoint로 호스팅할 준비를 하세요",
   "createNamespace": "Namespace 생성",

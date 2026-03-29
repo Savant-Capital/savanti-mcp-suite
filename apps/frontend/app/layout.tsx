@@ -18,9 +18,9 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "MetaMCP",
+  title: "AutomateAI MCP",
   description:
-    "MetaMCP is dev platform for dynamically configuring and deploying MCPs",
+    "AutomateAI MCP is a platform for dynamically configuring and deploying MCP servers",
 };
 
 interface RootLayoutProps {

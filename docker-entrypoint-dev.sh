@@ -2,7 +2,7 @@
 
 set -e
 
-echo "🚀 Starting MetaMCP development services..."
+echo "🚀 Starting AutomateAI MCP development services..."
 echo "📁 Working directory: $(pwd)"
 echo "🔍 Node version: $(node --version)"
 echo "📦 pnpm version: $(pnpm --version)"

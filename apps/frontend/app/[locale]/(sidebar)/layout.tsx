@@ -160,16 +160,21 @@ export default function SidebarLayout({
       <Sidebar>
         <SidebarHeader className="flex flex-col justify-center items-center px-2 py-4">
           <div className="flex items-center justify-center w-full mb-2">
-            <div className="flex items-center gap-4">
+            <Link
+              href="https://automateai.cc"
+              className="flex items-center gap-4"
+              target="_blank"
+              rel="noreferrer"
+            >
               <Image
                 src="/favicon.ico"
-                alt="MetaMCP Logo"
+                alt="AutomateAI MCP Suite"
                 width={256}
                 height={256}
                 className="h-12 w-12"
               />
-              <h2 className="text-2xl font-semibold">MetaMCP</h2>
-            </div>
+              <h2 className="text-xl font-semibold">AutomateAI MCP</h2>
+            </Link>
           </div>
         </SidebarHeader>
 

@@ -2,7 +2,7 @@
 
 set -e
 
-echo "Starting MetaMCP services..."
+echo "Starting AutomateAI MCP services..."
 
 # Function to wait for postgres
 wait_for_postgres() {

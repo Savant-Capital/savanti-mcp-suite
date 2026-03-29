@@ -1,8 +1,8 @@
 {
-  "exploreMcpServers": "探索 MCP 服务器 (测试版)",
+  "exploreMcpServers": "MCP Server Library",
   "mcpServers": "MCP 服务器",
-  "metamcpNamespaces": "MetaMCP 命名空间",
-  "metamcpEndpoints": "MetaMCP 端点",
+  "metamcpNamespaces": "AutomateAI Groups",
+  "metamcpEndpoints": "AutomateAI MCP Endpoints",
   "mcpInspector": "MCP 检查器",
   "apiKeys": "API 密钥",
   "settings": "设置",

@@ -1,5 +1,5 @@
 {
-  "title": "MetaMCP 端点",
+  "title": "AutomateAI MCP Endpoints",
   "description": "创建映射到命名空间的公共统一 MCP 服务器端点以供外部访问",
   "createEndpoint": "创建端点",
   "createEndpointDescription": "创建新的公共端点并选择要映射到的命名空间",

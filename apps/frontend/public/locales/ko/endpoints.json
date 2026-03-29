@@ -1,5 +1,5 @@
 {
-  "title": "MetaMCP Endpoints",
+  "title": "AutomateAI MCP Endpoints",
   "description": "외부 접근을 위해 Namespace에 매핑되는 공개 통합 MCP 서버 Endpoint를 생성합니다",
   "createEndpoint": "Endpoint 생성",
   "createEndpointDescription": "새 공개 Endpoint를 생성하고 매핑할 Namespace를 선택하세요",

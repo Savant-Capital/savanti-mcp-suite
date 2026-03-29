@@ -1,5 +1,5 @@
 {
-  "title": "MetaMCP 命名空间",
+  "title": "AutomateAI Groups",
   "descriptionLabel": "描述",
   "description": "将您的 MCP 服务器分组到命名空间中，并准备使用单个统一的 MCP 服务器端点来托管命名空间",
   "createNamespace": "创建命名空间",

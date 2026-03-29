@@ -53,7 +53,7 @@
   "unexpectedError": "An unexpected error occurred",
   "corsError": {
     "title": "CORS Policy Violation",
-    "description": "You're accessing MetaMCP from an unauthorized domain. For security reasons, this application enforces a strict CORS (Cross-Origin Resource Sharing) policy.",
+    "description": "You're accessing AutomateAI MCP from an unauthorized domain. For security reasons, this application enforces a strict CORS (Cross-Origin Resource Sharing) policy.",
     "currentDomain": "Current domain:",
     "authorizedDomain": "Authorized domain:",
     "resolveTitle": "To resolve this issue:",
@@ -62,7 +62,7 @@
     "step3": "Ensure all requests (including API calls) are made from the same authorized domain",
     "goToAuthorizedDomain": "Go to Authorized Domain",
     "refreshPage": "Refresh Page",
-    "securityNote": "This security measure prevents unauthorized cross-origin requests and protects your MetaMCP instance from potential security threats."
+    "securityNote": "This security measure prevents unauthorized cross-origin requests and protects your AutomateAI MCP instance from potential security threats."
   },
   "oauth": {
     "processingCallback": "Processing OAuth callback...",

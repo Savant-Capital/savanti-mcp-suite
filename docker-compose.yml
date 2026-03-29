@@ -76,7 +76,7 @@ services:
       #     }
       #   ]
       
-      # Namespaces - Create user-specific workspaces
+      # Groups - Create user-specific MCP groupings
       # BOOTSTRAP_NAMESPACES: |
       #   [
       #     {

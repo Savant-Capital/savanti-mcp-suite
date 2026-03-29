@@ -21,8 +21,8 @@
     "invalidUrl": "URL must be valid for SSE and Streamable HTTP types"
   },
   "namespaceName": {
-    "required": "Namespace name is required",
-    "invalidCharacters": "Namespace name must only contain letters, numbers, underscores, and hyphens"
+    "required": "Group name is required",
+    "invalidCharacters": "Group name must only contain letters, numbers, underscores, and hyphens"
   },
   "endpointName": {
     "required": "Endpoint name is required",

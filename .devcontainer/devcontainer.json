@@ -1,5 +1,5 @@
 {
-  "name": "MetaMCP Dev Environment",
+  "name": "AutomateAI MCP Dev Environment",
   "dockerComposeFile": ["docker-compose.yml"],
   "service": "app",
   "workspaceFolder": "/workspaces/metamcp",

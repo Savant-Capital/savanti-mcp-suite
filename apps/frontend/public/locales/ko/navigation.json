@@ -1,8 +1,8 @@
 {
-  "exploreMcpServers": "MCP Server 탐색 (베타)",
+  "exploreMcpServers": "MCP Server Library",
   "mcpServers": "MCP Servers",
-  "metamcpNamespaces": "MetaMCP Namespaces",
-  "metamcpEndpoints": "MetaMCP Endpoints",
+  "metamcpNamespaces": "AutomateAI Groups",
+  "metamcpEndpoints": "AutomateAI MCP Endpoints",
   "mcpInspector": "MCP Inspector",
   "apiKeys": "API Keys",
   "settings": "설정",

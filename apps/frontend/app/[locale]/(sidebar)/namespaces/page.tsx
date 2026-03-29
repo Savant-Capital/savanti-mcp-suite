@@ -149,7 +149,7 @@ export default function NamespacesPage() {
               {t("namespaces:title")}
             </h1>
             <p className="text-muted-foreground">
-              {t("namespaces:description")}
+              {t("namespaces:pageDescription")}
             </p>
           </div>
         </div>
@@ -190,7 +190,7 @@ export default function NamespacesPage() {
 
                 <div className="flex flex-col gap-2">
                   <label htmlFor="description" className="text-sm font-medium">
-                    {t("namespaces:description")}
+                    {t("namespaces:descriptionLabel")}
                   </label>
                   <Textarea
                     id="description"
