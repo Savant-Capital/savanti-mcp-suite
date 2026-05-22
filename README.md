@@ -1,4 +1,4 @@
-# AutomateAI MCP | Enterprise MCP Aggregation & Orchestration Suite <!-- omit in toc -->
+# AutomateAI MCP Suite | Enterprise MCP Aggregation, Gateway, & Orchestration<!-- omit in toc -->
 
 <div align="center">
 
