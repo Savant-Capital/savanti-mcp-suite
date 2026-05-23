@@ -18,9 +18,9 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "AutomateAI MCP",
+  title: "Savanti MCP Suite",
   description:
-    "AutomateAI MCP is a platform for dynamically configuring and deploying MCP servers",
+    "Savanti MCP Suite is a platform for dynamically configuring and deploying secure MCP solutions",
 };
 
 interface RootLayoutProps {

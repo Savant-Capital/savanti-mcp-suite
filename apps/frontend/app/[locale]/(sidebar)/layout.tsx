@@ -161,14 +161,14 @@ export default function SidebarLayout({
         <SidebarHeader className="flex flex-col justify-center items-center px-2 py-4">
           <div className="flex items-center justify-center w-full mb-2">
             <Link
-              href="https://automateai.cc"
+              href="https://savanti.cc"
               className="flex items-center gap-4"
               target="_blank"
               rel="noreferrer"
             >
               <Image
                 src="/favicon.ico"
-                alt="AutomateAI MCP Suite"
+                alt="Savanti MCP Suite"
                 width={256}
                 height={256}
                 className="h-12 w-12"
