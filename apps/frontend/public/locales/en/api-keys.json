@@ -2,7 +2,7 @@
   "title": "API Keys",
   "description": "Manage your API keys for programmatic access",
   "createApiKey": "Create API Key",
-  "createApiKeyDescription": "Create a new API key to access the AutomateAI MCP API programmatically",
+  "createApiKeyDescription": "Create a new API key to access the Savanti MCP API programmatically",
   "name": "Name",
   "namePlaceholder": "e.g., Production API Key",
   "ownership": "Ownership",

@@ -1,6 +1,6 @@
 {
   "title": "실시간 로그",
-  "subtitle": "MetaMCP Server 로그 및 오류 메시지",
+  "subtitle": "Savanti MCP Server 로그 및 오류 메시지",
   "lastUpdated": "마지막 업데이트: {{timestamp}}",
   "totalLogs": "총 {{count}}개 로그",
   "autoRefresh": "자동 새로고침",

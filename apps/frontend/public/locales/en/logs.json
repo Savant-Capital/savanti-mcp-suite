@@ -1,6 +1,6 @@
 {
   "title": "Live Logs",
-  "subtitle": "AutomateAI MCP server logs and error messages",
+  "subtitle": "Savanti MCP server logs and error messages",
   "lastUpdated": "Last updated: {{timestamp}}",
   "totalLogs": "{{count}} total logs",
   "autoRefresh": "Auto-refresh",

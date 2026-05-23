@@ -173,7 +173,7 @@ export default function SidebarLayout({
                 height={256}
                 className="h-12 w-12"
               />
-              <h2 className="text-xl font-semibold">AutomateAI MCP</h2>
+              <h2 className="text-lg font-semibold">Savanti MCP Suite</h2>
             </Link>
           </div>
         </SidebarHeader>

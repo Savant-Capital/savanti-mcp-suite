@@ -53,7 +53,7 @@
   "unexpectedError": "예기치 않은 오류가 발생했습니다",
   "corsError": {
     "title": "CORS 정책 위반",
-    "description": "승인되지 않은 도메인에서 MetaMCP에 접근하고 있습니다. 보안상의 이유로 이 애플리케이션은 엄격한 CORS (Cross-Origin Resource Sharing) 정책을 적용합니다.",
+    "description": "승인되지 않은 도메인에서 Savanti MCP에 접근하고 있습니다. 보안상의 이유로 이 애플리케이션은 엄격한 CORS (Cross-Origin Resource Sharing) 정책을 적용합니다.",
     "currentDomain": "현재 도메인:",
     "authorizedDomain": "승인된 도메인:",
     "resolveTitle": "이 문제를 해결하려면:",
@@ -62,7 +62,7 @@
     "step3": "모든 요청(API 호출 포함)이 동일한 승인된 도메인에서 이루어지도록 하세요",
     "goToAuthorizedDomain": "승인된 도메인으로 이동",
     "refreshPage": "페이지 새로고침",
-    "securityNote": "이 보안 조치는 승인되지 않은 교차 출처 요청을 방지하고 잠재적인 보안 위협으로부터 MetaMCP 인스턴스를 보호합니다."
+    "securityNote": "이 보안 조치는 승인되지 않은 교차 출처 요청을 방지하고 잠재적인 보안 위협으로부터 Savanti MCP 인스턴스를 보호합니다."
   },
   "oauth": {
     "processingCallback": "OAuth 콜백 처리 중...",

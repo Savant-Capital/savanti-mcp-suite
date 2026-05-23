@@ -21,8 +21,8 @@
     "invalidUrl": "SSE 和 Streamable HTTP 类型的 URL 必须有效"
   },
   "namespaceName": {
-    "required": "命名空间名称为必填项",
-    "invalidCharacters": "命名空间名称只能包含字母、数字、下划线和连字符"
+    "required": "组名称为必填项",
+    "invalidCharacters": "组名称只能包含字母、数字、下划线和连字符"
   },
   "endpointName": {
     "required": "端点名称为必填项",

@@ -1,8 +1,8 @@
 {
   "exploreMcpServers": "MCP Server Library",
   "mcpServers": "MCP 服务器",
-  "metamcpNamespaces": "AutomateAI Groups",
-  "metamcpEndpoints": "AutomateAI MCP Endpoints",
+  "metamcpNamespaces": "MCP Groups",
+  "metamcpEndpoints": "Savanti MCP Endpoints",
   "mcpInspector": "MCP 检查器",
   "apiKeys": "API 密钥",
   "settings": "设置",

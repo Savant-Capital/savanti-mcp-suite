@@ -1,5 +1,5 @@
 {
-  "title": "AutomateAI MCP Endpoints",
+  "title": "Savanti MCP Endpoints",
   "description": "Create public unified MCP server endpoints that map to groups for external access",
   "createEndpoint": "Create Endpoint",
   "createEndpointDescription": "Create a new public endpoint and select a group to map it to",
