@@ -1,5 +1,5 @@
 {
-  "name": "metamcp",
+  "name": "savanti-mcp-suite",
   "private": true,
   "scripts": {
     "build": "turbo run build",

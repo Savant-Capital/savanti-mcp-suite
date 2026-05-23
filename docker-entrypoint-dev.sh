@@ -2,7 +2,7 @@
 
 set -e
 
-echo "🚀 Starting AutomateAI MCP development services..."
+echo "🚀 Starting Savanti MCP Suite development services..."
 echo "📁 Working directory: $(pwd)"
 echo "🔍 Node version: $(node --version)"
 echo "📦 pnpm version: $(pnpm --version)"
@@ -10,7 +10,7 @@ echo "📦 pnpm version: $(pnpm --version)"
 # Wait for Postgres if compose didn't already gate startup
 if command -v pg_isready >/dev/null 2>&1; then
     echo "⏳ Checking PostgreSQL readiness..."
-    until pg_isready -h "${POSTGRES_HOST:-postgres}" -p "${POSTGRES_PORT:-5432}" -U "${POSTGRES_USER:-metamcp_user}" >/dev/null 2>&1; do
+    until pg_isready -h "${POSTGRES_HOST:-postgres}" -p "${POSTGRES_PORT:-5432}" -U "${POSTGRES_USER:-savanti_user}" >/dev/null 2>&1; do
         echo "🔁 PostgreSQL not ready yet, retrying in 2s..."
         sleep 2
     done

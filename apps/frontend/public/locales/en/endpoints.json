@@ -91,7 +91,7 @@
     "description": "Update the endpoint name, description, and reassign it to a different group.",
     "nameLabel": "Name",
     "namePlaceholder": "Enter endpoint name",
-    "nameHelpText": "URL-compatible name (alphanumeric, underscore, and hyphen only). This will be accessible at /metamcp/[name]",
+    "nameHelpText": "URL-compatible name (alphanumeric, underscore, and hyphen only). This will be accessible at /mcp/[name]",
     "descriptionLabel": "Description",
     "descriptionPlaceholder": "Enter endpoint description (optional)",
     "namespaceLabel": "Group",

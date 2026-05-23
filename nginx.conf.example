@@ -115,7 +115,7 @@ http {
     #}
     server {
         listen 8081;
-        server_name metamcp.dev.local;
+        server_name savanti.dev.local;
 
         location / {
             proxy_pass http://localhost:12008;  # Your backend/frontend

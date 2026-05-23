@@ -34,8 +34,8 @@ class DbOAuthClientProvider implements OAuthClientProvider {
       token_endpoint_auth_method: "none",
       grant_types: ["authorization_code", "refresh_token"],
       response_types: ["code"],
-      client_name: "MetaMCP",
-      client_uri: "https://github.com/metatool-ai/metamcp",
+      client_name: "Savanti MCP Suite",
+      client_uri: "https://github.com/Savant-Capital/savanti-mcp-suite",
     };
   }
 

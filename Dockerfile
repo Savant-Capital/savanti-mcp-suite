@@ -57,11 +57,11 @@ FROM base AS runner
 WORKDIR /app
 
 # OCI image labels
-LABEL org.opencontainers.image.source="https://github.com/metatool-ai/metamcp"
-LABEL org.opencontainers.image.description="AutomateAI MCP - aggregates MCP servers into unified AutomateAI MCP groups and endpoints"
+LABEL org.opencontainers.image.source="https://github.com/Savant-Capital/savanti-mcp-suite"
+LABEL org.opencontainers.image.description="Savanti MCP Suite - dynamically configure and deploy secure MCP solutions"
 LABEL org.opencontainers.image.licenses="MIT"
-LABEL org.opencontainers.image.title="AutomateAI MCP"
-LABEL org.opencontainers.image.vendor="AutomateAI"
+LABEL org.opencontainers.image.title="Savanti MCP Suite"
+LABEL org.opencontainers.image.vendor="Savanti"
 
 # Install curl for health checks
 RUN apt-get update && apt-get install -y curl postgresql-client && apt-get clean && rm -rf /var/lib/apt/lists/*

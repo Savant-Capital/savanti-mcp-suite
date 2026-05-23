@@ -65,7 +65,7 @@
     "description": "Endpoint 이름, 설명을 업데이트하고 다른 그룹으로 재할당합니다.",
     "nameLabel": "이름",
     "namePlaceholder": "Endpoint 이름 입력",
-    "nameHelpText": "URL 호환 이름(영숫자, 밑줄, 하이픈만 허용). /metamcp/[name]에서 접근 가능합니다",
+    "nameHelpText": "URL 호환 이름(영숫자, 밑줄, 하이픈만 허용). /mcp/[name]에서 접근 가능합니다",
     "descriptionLabel": "설명",
     "descriptionPlaceholder": "Endpoint 설명 입력 (선택 사항)",
     "namespaceLabel": "그룹",

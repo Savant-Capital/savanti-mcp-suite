@@ -65,7 +65,7 @@
     "description": "更新端点名称、描述，并重新分配到不同的组。",
     "nameLabel": "名称",
     "namePlaceholder": "输入端点名称",
-    "nameHelpText": "URL 兼容名称（仅限字母数字、下划线和连字符）。将可通过 /metamcp/[name] 访问",
+    "nameHelpText": "URL 兼容名称（仅限字母数字、下划线和连字符）。将可通过 /mcp/[name] 访问",
     "descriptionLabel": "描述",
     "descriptionPlaceholder": "输入端点描述（可选）",
     "namespaceLabel": "组",

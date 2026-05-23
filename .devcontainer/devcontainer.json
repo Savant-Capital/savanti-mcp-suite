@@ -1,8 +1,8 @@
 {
-  "name": "AutomateAI MCP Dev Environment",
+  "name": "Savanti MCP Suite Dev Environment",
   "dockerComposeFile": ["docker-compose.yml"],
   "service": "app",
-  "workspaceFolder": "/workspaces/metamcp",
+  "workspaceFolder": "/workspaces/savanti-mcp-suite",
   "features": {
     "ghcr.io/devcontainers/features/common-utils:2": {
       "configureZsh": true,
